@@ -1,0 +1,1 @@
+from plugin_integration.phantom.phantom_main import run_phantom
