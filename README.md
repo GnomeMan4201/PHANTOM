@@ -1,4 +1,6 @@
 # PHANTOM
+[![CI](https://github.com/GnomeMan4201/PHANTOM/actions/workflows/ci.yml/badge.svg)](https://github.com/GnomeMan4201/PHANTOM/actions/workflows/ci.yml)
+
 
 Deception intelligence layer for [Decoy-Hunter](https://github.com/GnomeMan4201/Decoy-Hunter).
 
