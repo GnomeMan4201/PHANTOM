@@ -45,7 +45,7 @@ class CounterPlaybook:
             f"  Threat Level  : {self.threat_level}",
             f"  LANimals Risk : {self.lanimals_risk_score:.2f}",
             f"  Approach      : {self.approach}",
-            f"  Prioritize    : {self.prioritize_ports or "none confirmed"}",
+            f"  Prioritize    : {self.prioritize_ports or chr(39)+chr(39)}none confirmed{chr(39)+chr(39)}",
             f"  Avoid         : {self.avoid_ports[:20]}",
             f"  Canary Risk   : {self.canary_risk_ports or "none"}",
         ]
