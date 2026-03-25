@@ -68,3 +68,11 @@ python3 -m pytest tests/ -v
 *builds on [toxy4any/Decoy-Hunter](https://github.com/toxy4ny/Decoy-Hunter) and [s0i37/defence](https://github.com/s0i37/defence)*
 
 *LANimals collective // badBANANA // GnomeMan4201*
+
+---
+
+## Demo
+
+<p align="center">
+  <img src="assets/phantom_demo.png" alt="PHANTOM deception intelligence output" width="780"/>
+</p>
