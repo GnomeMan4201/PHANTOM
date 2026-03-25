@@ -47,7 +47,7 @@ class CounterPlaybook:
             f"  Approach      : {self.approach}",
             f"  Prioritize    : {self.prioritize_ports or chr(39)+chr(39)}none confirmed{chr(39)+chr(39)}",
             f"  Avoid         : {self.avoid_ports[:20]}",
-            f"  Canary Risk   : {self.canary_risk_ports or "none"}",
+            f"  Canary Risk   : {self.canary_risk_ports or 'none'}",
         ]
 
 CANARY_PLATFORMS = {HoneypotPlatform.THINKST, HoneypotPlatform.OPENCANARY}
